@@ -13,3 +13,38 @@ If you use this code for research please cite:
 		url = {https://arxiv.org/pdf/1703.05630.pdf},
 		year = {2017}
 	}
+
+## Requirements
+
+Building and using requires the following libraries and programs
+
+    OpenCV
+
+The code has been tested on Ubuntu 14.04 and Windows 10.
+
+
+## Build instructions
+
+```
+git clone git@github.com:cherubicXN/anisotropic-scale-junction-detector.git
+cd anisotropic-scale-junction-detector
+mkdir build
+cd build
+cmake ..
+make
+```
+## Useage
+
+Linux:
+```
+./ASJDetector ../example_image/im1.jpg
+```
+
+Windows:
+```
+ASJDetector.exe ../example_image/im1.jpg
+```
+
+### Output file format
+
+coming soon.
