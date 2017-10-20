@@ -10,7 +10,9 @@ If you use this code for research please cite:
 		author = {Xue, Nan and Xia, Gui-Song and Bai, Xiang and Zhang, Liangpei and Shen, Weiming},
 		journal = {IEEE Transactions on Image Processing},		
 		title = {{Anisotropic-Scale Junction Detection and Matching for Indoor Images.}},
-		url = {https://arxiv.org/pdf/1703.05630.pdf},
+		volume = {27},
+		number = {1},
+		pages = {78-91},		
 		year = {2017}
 	}
 
