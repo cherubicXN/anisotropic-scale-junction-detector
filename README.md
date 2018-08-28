@@ -48,5 +48,11 @@ ASJDetector.exe ../example_image/im1.jpg
 ```
 
 ### Output file format
-
-coming soon.
+The first line of *.asj will contain a number $N$ for indicating the number of junctions.
+Then, we will output $N$ junctions in the following format
+```
+location_x location_y
+junctionClass scale rd logNFA
+branch_0 strength_0 scale_0
+branch_1 strength_1 scale_1
+````
