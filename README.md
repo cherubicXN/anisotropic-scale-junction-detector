@@ -6,14 +6,14 @@ ASJ is a novel compact geometric feature for characterising images.
 
 If you use this code for research please cite:
 
-	@article{XXBZS17,
+	@article{XXBZS18,
 		author = {Xue, Nan and Xia, Gui-Song and Bai, Xiang and Zhang, Liangpei and Shen, Weiming},
 		journal = {IEEE Transactions on Image Processing},		
 		title = {{Anisotropic-Scale Junction Detection and Matching for Indoor Images.}},
 		volume = {27},
 		number = {1},
 		pages = {78-91},		
-		year = {2017}
+		year = {2018}
 	}
 
 ## Requirements
